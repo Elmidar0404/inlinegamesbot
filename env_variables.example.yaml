@@ -1,7 +1,7 @@
 env_variables:
   DATABASE_URL: 'postgres://user:password@server:5432/database'
-  BOT_TOKEN: '12345678:vS6dfn78gnfsb6Ssdfuy7d6s5d'
-  BOT_USERNAME: 'yourawesomebot'
+  BOT_TOKEN: '5464192117:AAGjw9Kh-jygVGrA09Z0qiTGnAunn3dZoIQ'
+  BOT_USERNAME: 'asadaaaa_bot,
   BOT_WEBHOOK: 'https://APPNAME.appspot.com/webhook'
   BOT_SECRET: ''
   #BOT_ADMIN: '123456789'
